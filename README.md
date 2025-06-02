@@ -28,7 +28,7 @@ my major is Computer Engineering Technology at HCMUTE
   </a>
   <!-- Verilog icon -->
   <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/dtruowfng3/truongvo/refs/heads/main/file-type-verilog.svg" width="36" height="36" alt="Verilog" />
+    <img src="https://raw.githubusercontent.com/dtruowfng3/dtruowfng3/refs/heads/main/file-type-verilog.svg" width="36" height="36" alt="Verilog" />
   </a>
 </p>
 
