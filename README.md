@@ -18,8 +18,8 @@
 ---
 
 ### Archivements & Project
-- Experienced in IoT/Embedded system design, focusing on seamless hardware–software integration
-- Passionate about reading research papers in AI, Machine Learning, and Deep Learning to expand technical knowledge
+- Participated in multiple IoT & Embedded system designs, including hardware–software integration
+- Passionate about reading research papers in ML/DL to expand technical knowledge
 - Developed automation pipelines and backend tools for marketing and creative teams, enhancing ad campaign performance
 
 ---
