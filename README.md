@@ -2,7 +2,7 @@
   <img src="hello_github.png" alt="Profile Banner"/>
 </h1>
 <p>
-  <p>A "INTJ" Computer Engineering Technology student at HCMUTE from 🇻🇳.</p>
+  <p>An "INTJ" Computer Engineering Technology student at HCMUTE from 🇻🇳.</p>
   <a href="https://github.com/dtruowfng3">
     <img src="https://komarev.com/ghpvc/?username=dtruowfng3&color=blue" alt="Profile Views">
   </a>
