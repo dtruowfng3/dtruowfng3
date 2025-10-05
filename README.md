@@ -37,11 +37,24 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dtruowfng3&show_icons=true&theme=buefy" alt="My GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruowfng3&theme=buefy&layout=compact" alt="My Langguages Used"/>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/dtruowfng3">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=dtruowfng3&show_icons=true&theme=buefy" 
+               alt="My GitHub stats" style="max-width: 100%;">
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/dtruowfng3">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruowfng3&theme=buefy&layout=compact" 
+               alt="My Languages Used" style="max-width: 100%;">
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
