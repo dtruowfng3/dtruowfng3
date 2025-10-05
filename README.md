@@ -11,14 +11,22 @@
 ---
 
 ### About me:
-- 🎓 I’m currently studying **Computer Engineering Technology**
-- 💡 I’m interested in **ML/DL and IC design**
-- ⚙️ I’m good with **Python, Django, React**
-- 🌍 I love playing sports such as **football and badminton**, and I'm also passionate about learning **geography and the beauty of nature**
+- I’m currently studying **Computer Engineering Technology** and learning ML/DL & Mobile Fullstack Dev
+- I’m interested in **ML/DL and IC design**
+- I’m good with **Python, Django, React**
+- I love playing sports such as **football ⚽ and badminton**, and I'm also passionate about learning **geography 🌏 and the beauty of nature**
+
 
 ---
 
-### 🛠️ Languages and Tools:
+### Archivements & Project
+- Experienced in IoT/Embedded system design, focusing on seamless hardware–software integration
+- Passionate about reading research papers in AI, Machine Learning, and Deep Learning to expand technical knowledge
+- Developed automation pipelines and backend tools for marketing and creative teams, enhancing ad campaign performance
+
+---
+
+### Languages and Tools:
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="SystemC"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
