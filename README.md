@@ -1,11 +1,14 @@
 <h1 align="center">
-  <img src="hello_github.png" alt="Profile Banner"/>
+  <picture>
+    <!-- Dark theme -->
+    <source srcset="hello_github_black.png" media="(prefers-color-scheme: dark)">
+    <!-- Light theme -->
+    <img src="hello_github_white.png" alt="Profile Banner" width="80%">
+  </picture>
 </h1>
+
 <p>
   <p>An "INTJ" Computer Engineering Technology student at HCMUTE from 🇻🇳.</p>
-  <a href="https://github.com/dtruowfng3">
-    <img src="https://komarev.com/ghpvc/?username=dtruowfng3&color=blue" alt="Profile Views">
-  </a>
 </p>
 
 ---
