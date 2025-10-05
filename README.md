@@ -42,6 +42,6 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dtruowfng3&show_icons=true&theme=buefy" alt="Truong's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruowfng3&layout=compact&theme=buefy" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dtruowfng3&show_icons=true&theme=buefy" alt="My GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruowfng3&theme=buefy&layout=compact" alt="My Langguages Used"/>
 </p>
