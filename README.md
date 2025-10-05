@@ -12,10 +12,8 @@
 
 ### About me:
 - I’m currently studying **Computer Engineering Technology** and learning ML/DL & Mobile Fullstack Dev
-- I’m interested in **ML/DL and IC design**
-- I’m good with **Python, Django, React**
+- I’m interested in **ML/DL and IC design** and I’m good with **Python, Django, React**
 - I love playing sports such as **football ⚽ and badminton**, and I'm also passionate about learning **geography 🌏 and nature**
-
 
 ---
 
