@@ -12,7 +12,7 @@
 
 ---
 
-### 🌱 About me:
+### About me:
 - 🎓 I’m currently studying **Computer Engineering Technology**
 - 💡 I’m interested in **ML/DL and IC design**
 - 🌍 I love learning about **geography, history, and beautiful nature**
@@ -26,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
@@ -52,4 +51,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/truong-vo-814922345/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:vduytruong3124@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@d.truowfng.3" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" height="30" width="40" /></a>
 </p>
