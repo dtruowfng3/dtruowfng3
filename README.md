@@ -1,31 +1,24 @@
-<h1 align="center">
+<p align="center">
   <picture>
     <!-- Dark theme -->
     <source srcset="hello_github_black.png" media="(prefers-color-scheme: dark)">
     <!-- Light theme -->
     <img src="hello_github_white.png" alt="Profile Banner" width="80%">
   </picture>
-</h1>
-
+</p>
 <p>
   <p>An "INTJ" Computer Engineering Technology student at HCMUTE from 🇻🇳.</p>
 </p>
 
----
-
-### About me:
+### About me
 - I’m currently studying **CET** and learning **ML/DL & Fullstack Dev**
 - I’m interested in **ML/DL and IC design** and I’m good with **Python, Django, React**
 - I love playing sports such as **football⚽** and I'm also passionate about exploring **geography🌏 and nature**
-
----
 
 ### Archivements & Project
 - Participated in multiple IoT & Embedded system designs, including hardware–software integration
 - Passionate about reading research papers in ML/DL to expand technical knowledge
 - Developed automation pipelines and backend tools for marketing and creative teams, enhancing ad campaign performance
-
----
 
 ### Languages and Tools:
 <p align="center">
@@ -39,8 +32,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
-
----
 
 <table>
   <thead>
