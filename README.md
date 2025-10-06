@@ -1,6 +1,8 @@
 <p align="center">
-  <picture
+  <picture>
+    <!-- Dark Theme -->
     <source srcset="hello_github_black.png" media="(prefers-color-scheme: dark)">
+    <!-- Light Theme -->
     <img src="hello_github_white.png" alt="Profile Banner" width="80%">
   </picture>
 </p>
