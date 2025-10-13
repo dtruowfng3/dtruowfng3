@@ -7,14 +7,13 @@
   </picture>
 </p>
 <p>
-  <p>An "INTJ" Computer Engineering Technology student at HCMUTE from 🇻🇳.</p>
+  <p>INTJ</p>
 </p>
 
 ### About me, Archivements & Project
 - I’m currently studying **CET** and learning **ML/DL & Fullstack Dev**, i’m good with **Python, Django, React**
 - Participated in multiple IoT & Embedded system designs, including hardware–software integration.
 - **Built marketing automation tools** to optimize ad campaign performance
-- I love playing sports such as **football⚽** and I'm also passionate about exploring **geography🌏 and nature**
 
 ### Languages and Tools:
 <p align="center">
