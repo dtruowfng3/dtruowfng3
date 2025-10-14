@@ -6,9 +6,8 @@
     <img src="hello_github_white.png" alt="Profile Banner" width="80%">
   </picture>
 </p>
-<p>
-  <p>INTJ</p>
-</p>
+
+---
 
 ### About me, Archivements & Project
 - I’m currently studying **CET** and learning **ML/DL & Fullstack Dev**, i’m good with **Python, Django, React**
