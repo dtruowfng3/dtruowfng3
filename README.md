@@ -7,14 +7,11 @@
   </picture>
 </p>
 
----
-
 ### About me, Archivements & Project
 - I’m currently studying **CET** and learning **ML/DL & Fullstack Dev**, i’m good with **Python, Django, React**
 - Participated in multiple IoT & Embedded system designs, including hardware–software integration.
 - **Built marketing automation tools** to optimize ad campaign performance
 
-### Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
