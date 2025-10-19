@@ -8,7 +8,7 @@
 </p>
 
 ### About me, Archivements & Project
-- I’m currently studying **CET** and learning **ML/DL & Fullstack Dev**, i’m good with **Python, Django, React**
+- I’m currently studying **CET** (final-year student at HCMUTE) and learning **ML/DL & Fullstack Dev**, i’m good with **Python, Django, React**
 - Participated in multiple IoT & Embedded system designs, including hardware–software integration.
 - **Built marketing automation tools** to optimize ad campaign performance
 
