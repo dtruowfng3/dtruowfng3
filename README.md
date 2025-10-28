@@ -35,7 +35,7 @@
       </th>
       <th>
         <a href="https://github.com/dtruowfng3">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruowfng3&theme=buefy&layout=compact" 
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtruowfng3&theme=buefy&layout=compact&langs_count=8" 
                alt="My Languages Used" style="max-width: 100%;">
         </a>
       </th>
