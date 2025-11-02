@@ -8,7 +8,7 @@
 </p>
 
 ### About me, Archivements & Project
-- I’m final-year student in **CET** major at HCMUTE and learning **AI Agents, Automation, ML/DL & Dev**.
+- I’m final-year student in **CET** major at HCMUTE and learning **AI Agents, Automation, ML/DL & MLOps**.
 - Participated in multiple **IoT & Embedded** system designs, including **hardware–software** integration.
 - **Built a marketing automation tool** for UA team to optimize ad campaign performance
 
