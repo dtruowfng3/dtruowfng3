@@ -10,7 +10,7 @@
 ### About me, Archivements & Project
 - I’m final-year student in **CET** major at HCMUTE and learning **AI Agents, Automation, ML/DL & MLOps**.
 - Participated in multiple **IoT & Embedded** system designs, including **hardware–software** integration.
-- **Built a marketing automation tool** for UA team to optimize ad campaign performance
+- **Built a marketing automation tool** for UA team to optimize ad campaign performance.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
