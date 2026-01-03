@@ -8,7 +8,7 @@
 </p>
 
 ### About, Archivements & Project
-- I’m final-year student in **CET** major at **HCMUTE** and learning **AI Agents, Automation, ML/DL & MLOps**.
+- I’m final-year student in **CET** major at **HCM-UTE (HCMC University of Technology and Engineering)** and learning **AI Agents, Automation, ML/DL & MLOps**.
 - Participated in multiple **IoT & Embedded** system designs, including **Hw/Sw** integration.
 - **Built a marketing master tool ads manager (meta ads & tiktok ads)** for UA team to optimize ad campaign performance.
 
