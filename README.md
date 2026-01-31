@@ -10,7 +10,7 @@
 ### About, Archivements & Project
 - I’m final-year student in **CET** major at **HCM-UTE (HCMC University of Technology and Engineering)** and learning **AI Agents, Generative AI, Automation, ML/DL & MLOps**.
 - Participated in multiple **IoT & Embedded** system designs, including **Hw/Sw** integration.
-- **Built a marketing master tool ads manager (meta ads & tiktok ads)** for UA team (link wf between others team) to optimize ad campaign performance.
+- **Built a marketing master tool ads manager (meta ads & tiktok ads)** for UA team (link wf between others team) to optimize action management ad campaign performance.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
